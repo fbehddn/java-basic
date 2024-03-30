@@ -1,4 +1,4 @@
-package poly.basic.overriding;
+package poly.overriding;
 
 public class Child extends Parent {
     public String value = "child";
